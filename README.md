@@ -6,3 +6,10 @@ Soy estudiante de 2do año de Sistemas, y mi legajo es: _214.242-9_
 ## Acerca de mí:
 Me considero una persona que no sabe **nada** de programación, o tal vez muy poco _(aprobé algoritmos, lo juro!)_. Meterme en una carrera como Ing. en Sistemas fue un paso al vacío, pero uno que estoy feliz de haber tomado. Con el tiempo espero mejorar, y tal vez en un futuro commit decir que sé un poco más, jajaj. Ese es el sueño. 
 
+### Hobbies
+
+- Me encanta leer de todo, menos policiales. Ahora, por ejemplo, empecé "El Guardián entre el Centeno" de Salinger.
+- Ver películas, series, o cualquier vídeo explicativo de youtube que tenga menos de 10 minutos.
+- Dormir.
+- Comer.
+- Ojalá pudiera decir deportes, pero ¿para qué mentir?
