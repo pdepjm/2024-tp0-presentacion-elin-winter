@@ -13,3 +13,7 @@ Me considero una persona que no sabe **nada** de programación, o tal vez muy po
 - Dormir.
 - Comer.
 - Ojalá pudiera decir deportes, pero ¿para qué mentir?
+
+En la foto estoy manejando (? un bondi, el contexto no es necesario :)
+
+![image](https://github.com/pdepjm/2024-tp0-presentacion-elin-winter/assets/164521483/9bbcc47a-0e43-4a28-b40e-248b217e5b78)
